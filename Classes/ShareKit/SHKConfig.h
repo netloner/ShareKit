@@ -14,8 +14,8 @@
 // App Description
 // These values are used by any service that shows 'shared from XYZ'
 
-#define SHKMyAppName			@"My App Name"
-#define SHKMyAppURL				@"http://example.com"
+#define SHKMyAppName			@"iCare Health Tips"
+#define SHKMyAppURL				@"http://www.icareht.com/"
 
 
 
@@ -50,7 +50,7 @@
 // 
 //    Your CFBundleURLSchemes entry: fb555funk
 #define SHKFacebookUseSessionProxy  NO 
-#define SHKFacebookAppID      @""
+#define SHKFacebookAppID      @"216694108438783"
 #define SHKFacebookLocalAppID      @""
 #define SHKFacebookSessionProxyURL  @""
 
