@@ -211,6 +211,11 @@ static NSString *const kSHKFacebookUserInfo =@"kSHKFacebookUserInfo";
 		NSString *pictureURI = [item customValueForKey:@"picture"];
 		if (pictureURI)
 			[params setObject:pictureURI forKey:@"picture"];
+
+		NSString *caption = [item customValueForKey:@"caption"];
+		if (caption)
+			[params setObject:caption forKey:@"caption"];     
+        
 	}
 	else if (item.shareType == SHKShareTypeText && item.text)
 	{
