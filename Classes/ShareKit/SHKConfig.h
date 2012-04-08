@@ -50,7 +50,7 @@
 // 
 //    Your CFBundleURLSchemes entry: fb555funk
 #define SHKFacebookUseSessionProxy  NO 
-#define SHKFacebookAppID      @"216694108438783"
+#define SHKFacebookAppID      @"110183705735231"
 #define SHKFacebookLocalAppID      @""
 #define SHKFacebookSessionProxyURL  @""
 
